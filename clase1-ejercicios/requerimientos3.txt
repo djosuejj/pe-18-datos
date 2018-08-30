@@ -47,7 +47,6 @@ pyzmq==17.0.0
 qtconsole==4.3.1
 query-string==1.0.1
 request==1.0.1
-scandir==1.7
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
